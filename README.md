@@ -14,4 +14,4 @@ minecraft 1.12.2 combat client
 
 ![vision](https://github.com/RainBowNight531Magor12/vision-client/assets/163665304/d0d42eb0-1e7c-4777-9441-62a8de8f21cd)
 
-thunderhack skid
+gamesense skid
