@@ -1,0 +1,15 @@
+[
+{
+	"modid": "vision client",
+	"name": "Vision Client",
+	"description": "1.12.2 Anarchy Client.",
+	"version": "0.0.1",
+	"mcversion": "1.12.2",
+	"support": "https://discord.gg/xfgPw63",
+	"authorList": ["Magor12", "RainBowNight531"],
+	"credits": "https://github.com/RainBowNight531Magor12/vision-client",
+	"logoFile": "assets/gamesense/vision.png",
+	"screenshots": [],
+	"dependencies": []
+}
+]
